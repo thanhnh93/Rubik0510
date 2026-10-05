@@ -1,0 +1,11 @@
+Xác định tọa độ Rubik
+
+				UP (TRẮNG)
+					|
+			________|________
+			|				|
+			|				|
+FRONT(XANH DƯƠNG)			RIGHT (CAM)
+
+Link mô phỏng:
+https://blurboy1985.github.io/rubiks-cube-solver/?utm_source=copilot.com#cube=UUUUUUDDDLRLLLLLLLFFFBBBBBBDDDDDDUUURLRRRRRRRFFFFFFBBB
