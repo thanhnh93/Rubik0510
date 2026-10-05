@@ -6,6 +6,9 @@ Xác định tọa độ Rubik
 			|				|
 			|				|
 FRONT(XANH DƯƠNG)			RIGHT (CAM)
-
+//-------
 Link mô phỏng:
 https://blurboy1985.github.io/rubiks-cube-solver/?utm_source=copilot.com#cube=UUUUUUDDDLRLLLLLLLFFFBBBBBBDDDDDDUUURLRRRRRRRFFFFFFBBB
+//-------
+Link chạy thuật toán kociemba:
+https://colab.research.google.com/drive/1KwQnGc42M8FeXXKbzkgAzjOIq15QGp0V?hl=vi
